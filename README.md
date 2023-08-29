@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rosario (@rosariogdev) !
 -✨ I started coding while learning a little HTML when making my own wordpress blogs/websites. The real learning however started while taking various software development courses during my college adventure.
-- 🌱 I started learning the basics of C, C++, and Python along backend solutions for data collection (REST, SQL) and visualization(NodeRed, Grapahana,  ( netowrking (Wired and wireless networks) and communication (MQTT,Bacnet MSTP/IP, etc)
+- 🌱 I started learning the basics of C, C++, HTML, XML, JSON and Python along backend solutions for data collection (REST, SQL) and visualization(NodeRed, Grapahana,  ( netowrking (Wired and wireless networks) and communication (MQTT,Bacnet MSTP/IP, etc)
   related to IOT devices and Building Automation (HVAC monitoring systems, Smart Gardening system, Home Intrusion System), including some industrial automation (PLC Programming).
  🤖I also had the chance to tinker with a fun machine learning/Artifical intelligence program using TensorFlow and a Raspberry Pi with a Picamera module!
 - 💞️ I’m looking to collaborate on: I believe software has the potential to make every person's life easier and more efficient and productive. Donating time and effort to provide Open source
